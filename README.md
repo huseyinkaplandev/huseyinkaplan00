@@ -119,7 +119,7 @@ I’m a **Full-Stack Web & Mobile Developer** based in **Istanbul (GMT+3)**, bui
   <!--START_SECTION:waka-->
 
 ```txt
-From: 01 February 2026 - To: 03 March 2026
+From: 02 February 2026 - To: 04 March 2026
 
 Total Time: 0 secs
 
