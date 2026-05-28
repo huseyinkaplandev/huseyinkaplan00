@@ -133,12 +133,12 @@ No activity tracked
 
 ## Latest Writing
 <!-- BLOG-POST-LIST:START -->
+- [Bilgi Artık Ücretsiz. Ama Odak Hâlâ Pahalı.](https://medium.com/@huseyin-kaplan/bilgi-art%C4%B1k-%C3%BCcretsiz-ama-odak-h%C3%A2l%C3%A2-pahal%C4%B1-5a9e3c4f8a31?source=rss-bb03fc4ff2f5------2)
 - [Yazılım Mühendisliği Ölmüyor, Evriliyor: Vibe Coding’den Agentic Engineering’e](https://medium.com/@huseyin-kaplan/yaz%C4%B1l%C4%B1m-m%C3%BChendisli%C4%9Fi-%C3%B6lm%C3%BCyor-evriliyor-vibe-codingden-agentic-engineering-e-435c0b9d5730?source=rss-bb03fc4ff2f5------2)
 - [CS50&#39;yi Neden Sadece %1&#39;lik Kesim Bitirebiliyor? &lpar;Ve Ben Nasıl İki Kez Bitirdim&rpar;](https://medium.com/@huseyin-kaplan/cs50yi-neden-sadece-1-lik-kesim-bitirebiliyor-ve-ben-nas%C4%B1l-i%CC%87ki-kez-bitirdim-bc4e36ec7f1f?source=rss-bb03fc4ff2f5------2)
 - [Type vs Interface: TypeScript’te Hangisini Ne Zaman Kullanmalı?](https://medium.com/@huseyin-kaplan/type-vs-interface-typescriptte-hangisini-ne-zaman-kullanmal%C4%B1-89b74f3d131c?source=rss-bb03fc4ff2f5------2)
 - [React’ın Hafif Yapısını Yönlendiren İnşa Blokları: Return, Ternary, Optional Chaining ve Hooks](https://medium.com/@huseyin-kaplan/react%C4%B1n-hafif-yap%C4%B1s%C4%B1n%C4%B1-y%C3%B6nlendiren-i%CC%87n%C5%9Fa-bloklar%C4%B1-return-ternary-optional-chaining-ve-hooks-4867e721830e?source=rss-bb03fc4ff2f5------2)
 - [React’ta Derived State: Ne Zaman Ve Nasıl Kullanılır?](https://medium.com/@huseyin-kaplan/reactta-derived-state-ne-zaman-ve-nas%C4%B1l-kullan%C4%B1l%C4%B1r-a27434f093cf?source=rss-bb03fc4ff2f5------2)
-- [SCSS Dosyalarınızı CSS’ye Dönüştürürken Visual Studio Code ve Live Sass Compiler Kullanma](https://medium.com/@huseyin-kaplan/scss-dosyalar%C4%B1n%C4%B1z%C4%B1-cssye-d%C3%B6n%C3%BC%C5%9Ft%C3%BCr%C3%BCrken-visual-studio-code-ve-live-sass-compiler-kullanma-8b7cc45d685f?source=rss-bb03fc4ff2f5------2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
